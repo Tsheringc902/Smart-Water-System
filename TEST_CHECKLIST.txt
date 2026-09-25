@@ -1,0 +1,36 @@
+MANUAL GUI TESTING CHECKLIST
+============================
+
+Tester name:
+Date:
+Computer:
+
+[ ] Login as Student
+[ ] Login as Maintenance
+[ ] Login as Admin
+[ ] Reject incorrect password
+[ ] Open student dashboard
+[ ] Submit a complaint with all required fields
+[ ] Reject an empty complaint description
+[ ] View complaint history
+[ ] Open complaint details
+[ ] Search complaints as admin/maintenance
+[ ] Filter complaints by status
+[ ] Update complaint status
+[ ] Add maintenance schedule
+[ ] Edit maintenance schedule
+[ ] Delete maintenance schedule
+[ ] View analytics
+[ ] Confirm building status changes when an unresolved complaint exists
+[ ] Export complaint report to CSV
+[ ] Export complaint report to Excel after installing openpyxl
+[ ] Change password using a strong password
+[ ] Reject a weak password
+[ ] Reject an incorrect old password
+[ ] Logout
+[ ] Close application without an error
+
+Notes:
+____________________________________________________
+____________________________________________________
+____________________________________________________
